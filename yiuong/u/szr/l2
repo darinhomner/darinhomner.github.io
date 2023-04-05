@@ -1,0 +1,65 @@
+mycima.video/run/#@#Texom#@#0#@#1#@#0#@#1#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
+mycima.#@#Romex#@#0#@#4#@#1#@#0#@#0#@#0#@#0#@##@#1#@#1#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@#https://mycima.video/#@#url.contains("uppom.")#@#1#@#1#@#0#@#
+youtu.be#@#Youtube#@#2#@#5#@#2#@#0#@#0#@#0#@#0#@##@#1#@#1#@#1#@#1#@##@##@##@##@#1#@#1#@#0#@#
+youtube.#@#Youtube*#@#2#@#5#@#3#@#0#@#0#@#0#@#0#@##@#1#@#1#@#1#@#1#@##@##@##@##@#1#@#1#@#0#@#
+aflamgulf.#@#Sancy#@#1#@#5#@#4#@#0#@#1#@#100#@#20#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("aflamys.") && url.contains("/hls/")##url.contains("aflamys.") && url.contains("/HLS/")##url.contains("ibrahimrashidacademy.") && url.contains("/hls/")##url.contains("ibrahimrashidacademy.") && url.contains("/HLS/")##url.contains("bantoona.") && url.contains("/master.m3u8")#@#1#@#1#@#0#@#
+faselhd.#@#Star  X#@#1#@#5#@#5#@#0#@#1#@#100#@#90#@##@#1#@#0#@#1#@#0#@##@##@#https://www.faselhd.pro/#@#url.contains(".faselhdstream.com/stream/")##url.contains(".faselhd.cc/stream/")##url.contains("faseldom") && url.contains("/stream/hls/")##url.contains("/stream/hls/")#@#1#@#1#@#0#@#
+faselhd.co/#@#Star X#@#1#@#5#@#6#@#0#@#1#@#100#@#90#@##@#1#@#0#@#1#@#0#@##@##@#https://www.faselhd.pro/#@#url.contains(".faselhdstream.com/stream/")##url.contains(".faselhd.cc/stream/")##url.contains("faseldom") && url.contains("/stream/hls/")#@#1#@#1#@#0#@#
+moshahda.#@#Kota#@#12#@#4#@#7#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@#https://lodynet.co#@#url.contains("/master.m3u8")#@#1#@#1#@#0#@#
+anavids.#@#Dragon#@#1#@#4#@#8#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#1#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("/v.mp4")#@#1#@#1#@#0#@#
+gateaflam.#@#Fondrox#@#12#@#4#@#9#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("drivecdn.") && url.contains("/content.php?id=")##url.contains("/redirector?token=")##url.contains("mstreamcdn.") && url.contains(".mp4")##url.contains("samaup.") && url.contains("/video.mp4")#@#1#@#1#@#0#@#
+watch4unow.#@#Taylor#@#2#@#4#@#10#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@##@#1#@#1#@#0#@#
+dardarkom.#@#Kasper#@#2#@#5#@#11#@#0#@#0#@#0#@#0#@##@#0#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@##@#1#@#1#@#0#@#
+vidshare.tv/#@#Sol#@#12#@#4#@#12#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#1#@##@##@#https://shahid4u.net/watch/#@#url.contains(".vedshaar.") && url.contains("/hls/")##url.contains("vidsharcdn.") && url.contains("/hls/")##url.contains(".vidshar.") && url.contains("/hls/")##url.contains(".vidshare.") && url.contains("/hls/")##url.contains(".vidshaar.") && url.contains("/hls/")#@#1#@#1#@#0#@#
+vidshar.#@#Sol II#@#12#@#4#@#13#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#1#@##@##@#https://shahid4u.net/watch/#@#url.contains(".vedshaar.") && url.contains("/hls/")##url.contains("vidsharcdn.") && url.contains("/hls/")##url.contains(".vidshar.") && url.contains("/hls/")##url.contains(".vidshare.") && url.contains("/hls/")##url.contains(".vidshaar.") && url.contains("/hls/")#@#1#@#1#@#0#@#
+vidshaar.#@#Sol  II#@#12#@#4#@#14#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#1#@##@##@#https://shahid4u.net/watch/#@#url.contains(".vedshaar.") && url.contains("/hls/")##url.contains("vidsharcdn.") && url.contains("/hls/")##url.contains(".vidshar.") && url.contains("/hls/")##url.contains(".vidshare.") && url.contains("/hls/")##url.contains(".vidshaar.") && url.contains("/hls/")#@#1#@#1#@#0#@#
+vedshar.#@#Sol   II#@#12#@#4#@#15#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#1#@##@##@#https://shahid4u.net/watch/#@#url.contains(".vedshaar.") && url.contains("/hls/")##url.contains("vidsharcdn.") && url.contains("/hls/")##url.contains(".vidshar.") && url.contains("/hls/")##url.contains(".vidshare.") && url.contains("/hls/")##url.contains(".vidshaar.") && url.contains("/hls/")#@#1#@#1#@#0#@#
+vedshaar.#@#Sol III#@#12#@#4#@#16#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#1#@##@##@#https://shahid4u.net/watch/#@#url.contains(".vedshaar.") && url.contains("/hls/")##url.contains("vidsharcdn.") && url.contains("/hls/")##url.contains(".vidshar.") && url.contains("/hls/")##url.contains(".vidshare.") && url.contains("/hls/")##url.contains(".vidshaar.") && url.contains("/hls/")#@#1#@#1#@#0#@#
+ok.ru/#@#Golden Rock#@#12#@#4#@#17#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains(".mycdn.me/video.m3u8?")#@#1#@#1#@#0#@#
+hdlink.online#@#Demox#@#2#@#4#@#18#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#1#@##@##@##@##@#1#@#1#@#0#@#
+arabseed.#@#Leopard#@#12#@#3#@#19#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains("arabseed.") && url.contains(".mp4")#@#1#@#1#@#0#@#
+vedbom.#@#Oltex#@#12#@#3#@#20#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains("vidboo.") && url.contains(".mp4")#@#1#@#1#@#0#@#
+tune.pk#@#Oxelo 144p#@#12#@#3#@#21#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains("tunefiles") && url.contains(".m3u8")#@#1#@#1#@#0#@#
+vidoba.net/#@#Black Tiger#@#12#@#3#@#22#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains(".vidoba.net/hls/")#@#1#@#1#@#0#@#
+mp4upload.#@#Loprex#@#2#@#3#@#23#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#1#@##@##@##@##@#1#@#1#@#0#@#
+uqload.com/#@#Orato#@#2#@#3#@#24#@#0#@#1#@#100#@#5#@##@#1#@#0#@#1#@#1#@##@##@##@##@#1#@#1#@#0#@#
+vidoza.#@#La Luna#@#12#@#4#@#25#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains(".vidoza.") && url.contains("/v.mp4")#@#1#@#0#@#0#@#
+uptostream.#@#Podkon#@#12#@#3#@#26#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains(".uptostream.") && url.contains("/video.mp4")#@#1#@#1#@#0#@#
+vidfast.co/#@#Light N#@#12#@#4#@#27#@#0#@#2#@#0#@#0#@#javascript:jwplayer().play();#@#1#@#1#@#1#@#0#@##@##@#https://faselhd.live/mr#@#url.contains(".vidfast.co/hls/")##url.contains("rocket-drive.xyz/hls/")#@#1#@#1#@#0#@#
+vidsat.net#@#Go Plus#@#12#@#4#@#28#@#0#@#2#@#0#@#0#@#javascript:jwplayer().play();#@#1#@#1#@#1#@#0#@##@##@##@#url.contains(".vidsat.net/hls/")#@#1#@#1#@#0#@#
+vidbm.com/#@#Black Swan#@#12#@#3#@#29#@#0#@#1#@#50#@#100#@##@#1#@#1#@#1#@#0#@##@##@#https://ww.shahid4u.net/#@#url.contains("//s") && url.contains(".vidbm.com/") && url.contains("/v.mp4")#@#1#@#1#@#0#@#
+vidspeed.net/#@#Rapi Wire#@#12#@#4#@#30#@#0#@#1#@#50#@#100#@##@#1#@#1#@#1#@#0#@##@##@##@#url.contains(".vidspeed.net/hls/") && url.contains(".m3u8")##url.contains(".vidspeed.net/") && url.contains("/v.")#@#1#@#1#@#0#@#
+vidhdr.#@#Estrella#@#12#@#4#@#31#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains("vidhdr.") && url.contains("/v.mp4")#@#1#@#1#@#0#@#
+vidhd.#@#Aver#@#12#@#4#@#32#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#1#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@#!!!https://ww.shahid4u.net/watch/#@#url.contains("vidhd.") && url.contains("/v.mp4")#@#1#@#1#@#0#@#
+jawcloud.#@#Rodrex#@#12#@#4#@#33#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#1#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("jawcloud.") && url.contains("/hls/")#@#1#@#1#@#0#@#
+cloudvideo.#@#Volex#@#12#@#4#@#34#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains(".cdncv.") && url.contains("/hls/")#@#1#@#1#@#0#@#
+cimanow.net#@#CN#@#0#@#1#@#35#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
+fembed.com#@#Gontex#@#2#@#4#@#36#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#1#@#1#@#0#@#
+upvid.#@#Telmax#@#12#@#3#@#37#@#0#@#1#@#100#@#20#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains(".upvid.") && url.contains("/v.mp4")#@#1#@#1#@#0#@#
+easyload.#@#Holmar#@#12#@#3#@#38#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains(".eload") && url.contains(".m3u8")#@#1#@#1#@#0#@#
+upstream.#@#Nelaf#@#12#@#2#@#39#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains(".upstream.") && url.contains("/v.mp4")#@#1#@#1#@#0#@#
+vidbem.#@#Sapo#@#12#@#3#@#40#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("vidbem.") && url.contains("/v.mp4")#@#1#@#1#@#0#@#
+mystream.#@#Fuego#@#0#@#3#@#41#@#0#@#0#@#0#@#0#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@##@#1#@#1#@#0#@#
+vidia.tv#@#x1#@#0#@#1#@#42#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
+hdup.#@#Fergo#@#12#@#3#@#43#@#0#@#1#@#100#@#30#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("hdup.") && url.contains("/v.mp4")#@#1#@#1#@#0#@#
+youdbox.#@#Hitox#@#12#@#3#@#44#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("youdbox.") && url.contains(".mp4")#@#1#@#1#@#0#@#
+streamwire.#@#Dolex#@#2#@#3#@#45#@#0#@#0#@#0#@#0#@##@#1#@#0#@#1#@#0#@##@##@##@##@#1#@#1#@#0#@#
+openload.#@#x2#@#0#@#1#@#46#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
+playtube.#@#Giro#@#12#@#4#@#47#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("/master.m3u8")#@#1#@#1#@#0#@#
+vidlox.#@#Morex#@#12#@#3#@#48#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("/master.m3u8")#@#1#@#1#@#1#@#
+vidlo.#@#Foxet#@#12#@#4#@#49#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("/master.m3u8")#@#1#@#1#@#1#@#
+watchvideo.#@#Rexat#@#12#@#3#@#50#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("/master.m3u8")#@#1#@#1#@#0#@#
+yourupload.#@#Jorex#@#2#@#2#@#51#@#0#@#0#@#0#@#0#@##@#1#@#0#@#1#@#0#@##@##@##@##@#1#@#1#@#0#@#
+vev.io#@#x3#@#0#@#1#@#52#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
+vidup.io#@#x4#@#0#@#1#@#53#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
+popads.net#@#x5#@#0#@#1#@#54#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
+playnow.to#@#x6#@#0#@#1#@#55#@#0#@#0#@#0#@#0#@##@#0#@#0#@#0#@#0#@##@##@##@##@#0#@#0#@#0#@#
+streamtape.#@#Lonex#@#12#@#3#@#56#@#0#@#1#@#100#@#50#@##@#1#@#0#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36#@##@#url.contains("mp4?stream=1")#@#1#@#1#@#0#@#
+.livekoora.#@#Live Football#@#2#@#4#@#57#@#0#@#0#@#0#@#0#@##@#1#@#1#@#1#@#0#@##@#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36#@##@#url.contains(".m3u8")##url.contains(".livekoora.online/search")##url.contains(".livekoora.online//search")##url.contains(".bein-live.net//search")#@#0#@#0#@#0#@#
+userload.#@#Floxo#@#12#@#4#@#58#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains("uloadcdn.") && url.contains(".mp4")#@#1#@#1#@#0#@#
+voe.sx#@#Troxy#@#12#@#3#@#59#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains("delivery-node-inaya.voe-network.") && url.contains("/hls/")#@#1#@#1#@#0#@#
+racaty.#@#Ixonex#@#12#@#3#@#60#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains("racaty.net") && url.contains(".mp4")#@#1#@#1#@#0#@#
+vidroba.#@#Jodive#@#12#@#3#@#61#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains("fastcdn.") && url.contains(".m3u8")#@#1#@#1#@#0#@#
+wolfstream.#@#Crexo#@#12#@#3#@#62#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#1#@##@##@##@#url.contains("wolfstream.") && url.contains(".m3u8")#@#1#@#1#@#0#@#
+vod7.xyz#@#Netrol#@#2#@#3#@#63#@#0#@#1#@#50#@#100#@##@#1#@#0#@#1#@#1#@##@##@##@##@#1#@#1#@#0#@#
+atvarapk.github.io#@#Goflex#@#1#@#5#@#64#@#0#@#1#@#50#@#100#@##@#0#@#0#@#1#@#0#@##@##@##@#url.contains(".mp4")#@#0#@#0#@#0#@#

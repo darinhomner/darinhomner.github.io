@@ -1,0 +1,115 @@
+0#-#MBC 1#-#0#-##-#https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8#-##3##-#0#-#0#-##-##-#0
+1#-#MBC 2#-#1#-##-#https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8#-##4##-#0#-#0#-##-##-#1
+2#-#MBC 3#-#2#-##-#https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8#-##9##-#0#-#0#-##-##-#1
+3#-#MBC 4#-#3#-##-#https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8#-##3##-#0#-#0#-##-##-#1
+4#-#MBC 5#-#4#-##-#https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8#-##3##-#0#-#0#-##-##-#1
+5#-#MBC Variety#-#5#-##-#http://digitalxpress.gcdn.co/live1/mbcvarietyhd-AR/index.m3u8#-##3#4##-#1#-#0#-##-##-#1
+6#-#MBC العراق#-#6#-##-#https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8#-##3##-#0#-#0#-##-##-#1
+7#-#MBC Max#-#7#-##-#https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8#-##3#4##-#0#-#0#-##-##-#1
+8#-#MBC Action#-#8#-##-#https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8#-##3#4##-#0#-#0#-##-##-#1
+9#-#MBC Bolleywod#-#9#-##-#https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8#-##3#4##-#0#-#0#-##-##-#1
+a#-#MBC دراما#-#a#-##-#https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8#-##3##-#0#-#0#-##-##-#1
+b#-#MBC دراما +#-#b#-##-#https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8#-##3##-#0#-#0#-##-##-#1
+c#-#MBC مصر#-#c#-##-#https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8#-##3##-#0#-#0#-##-##-#1
+d#-#MBC مصر 2#-#d#-##-#https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8#-##3##-#0#-#0#-##-##-#1
+e#-#MBC Persia#-#e#-##-#https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8#-##3#4##-#0#-#0#-##-##-#1
+f#-#MBC وناسه#-#f#-##-#https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8#-##5##-#0#-#0#-##-##-#1
+g#-#MBC FM#-#g#-##-#https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8#-##5##-#0#-#0#-##-##-#1
+h#-#روتانا سينما#-#h#-##-#https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8#-##4##-#0#-#0#-##-##-#1
+i#-#روتانا كلاسيك#-#i#-##-#https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_3.m3u8#-##4##-#0#-#0#-##-##-#1
+j#-#روتانا موسيقى#-#j#-##-#http://digitalxpress.gcdn.co/live1/Rotana_Clip/index.m3u8#-##5##-#0#-#0#-##-##-#1
+k#-#روتانا خليجية#-#k#-##-#https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_3.m3u8#-##3##-#0#-#0#-##-##-#1
+l#-#Rotana Kids#-#l#-##-#https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8#-##9##-#0#-#0#-##-##-#1
+m#-#راديو روتانا#-#m#-##-#http://188.247.86.67:8002/3#-##5##-#0#-#0#-##-##-#1
+n#-#روتانا كوميدي#-#n#-##-#https://rotana.hibridmedia.com/rotana/comedy_dabr/playlist.m3u8?airmaxtv.m3u8#-##3#4##-#0#-#0#-##-##-#1
+o#-#روتانا دراما#-#o#-##-#https://rotana.hibridmedia.com/rotana/drama_dabr/playlist.m3u8?airmaxtv.m3u8#-##3##-#0#-#0#-##-##-#1
+p#-#روتانا LBC#-#p#-##-#https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8?airmaxtv.m3u8#-##3##-#0#-#0#-##-##-#1
+q#-#سوريا +#-#q#-##-#https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8?airmaxtv.m3u8#-##3#6##-#1#-#0#-##-##-#1
+r#-#لنا#-#r#-##-#https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8#-##3##-#0#-#0#-##-##-#1
+s#-#أهل القرآن#-#s#-##-#https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8?airmaxtv.m3u8#-##8##-#0#-#0#-##-##-#1
+t#-#LBN Lebanon#-#t#-##-#https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8#-##3#6##-#0#-#0#-##-##-#1
+u#-#Meime TV#-#u#-##-#https://stream.meietv.de/live/meietv.m3u8#-##3##-#0#-#0#-##-##-#1
+v#-#MTV#-#v#-##-#http://digitalxpress.gcdn.co/live1/mtvlebanon/index.m3u8#-##3#6##-#0#-#0#-##-##-#1
+w#-#NBN#-#w#-##-#http://144.76.226.29:8080/live/streeem/streeem/165.m3u8#-##3#6##-#0#-#0#-##-##-#1
+x#-#المستقبل#-#x#-#future#-#http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8?airmaxtv.m3u8#-##3#6##-#0#-#0#-##-##-#1
+y#-#الاتحاد#-#y#-##-#https://live.alittihad.tv/ittihad/chunklist.m3u8?airmaxtv.m3u8#-##3#6##-#0#-#0#-##-##-#1
+z#-#المنار#-#z#-##-#https://manar.live/iptv/tracks-v1a1/mono.m3u8#-##3#6##-#0#-#0#-##-##-#1
+10#-#الميادين#-#10#-##-#http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8?airmaxtv.m3u8#-##6##-#0#-#0#-##-##-#1
+11#-#الفجر 2#-#11#-##-#http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8?airmaxtv.m3u8#-##3##-#0#-#0#-##-##-#1
+12#-#القدس#-#12#-##-#https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8?airmaxtv.m3u8#-##3#6##-#0#-#0#-##-##-#1
+13#-#فلسطين#-#13#-##-#http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8?airmaxtv.m3u8#-##3##-#0#-#0#-##-##-#1
+14#-#مساواة#-#14#-##-#http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8?airmaxtv.m3u8#-##6##-#0#-#0#-##-##-#1
+15#-#نابلس#-#15#-##-#http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8#-##6##-#0#-#0#-##-##-#1
+16#-#الإمارات#-#16#-##-#https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8?airmaxtv.m3u8#-##3#6##-#0#-#0#-##-##-#1
+17#-#الشرقية من كلباء#-#17#-##-#https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_chunks.m3u8?airmaxtv.m3u8#-##-#0#-#0#-##-##-#1
+18#-#دبي دراما#-#18#-##-#https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist.m3u8?airmaxtv.m3u8#-##3##-#0#-#0#-##-##-#1
+19#-#أبو ظبي#-#19#-##-#https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8?airmaxtv.m3u8#-##-#0#-#0#-##-##-#1
+1a#-#الشارقة#-#1a#-##-#https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?airmaxtv.m3u8#-##-#0#-#0#-##-##-#1
+1b#-#الوسطى#-#1b#-##-#https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8?airmaxtv.m3u8#-##-#0#-#0#-##-##-#1
+1c#-#Yas#-#1c#-##-#https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?airmaxtv.m3u8?adtv#-##-#0#-#0#-##-##-#1
+1d#-#مكة#-#1d#-##-#http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8?airmaxtv.m3u8#-##8##-#0#-#0#-##-##-#1
+1e#-#beIN Sports 1#-#1e#-#بين سبورت#-#http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/111600#@--@#http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/111599#@--@#http://clientsportals.com:80/eSN1tfXB/f6QW2ugz/111611#@--@#http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/85910#@--@#http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/79991#@--@#http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/79976#@--@#http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/79983#@--@#http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/79986#@--@#http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/80006#-##2##-#0#-#0#-##-##-#1
+1f#-#beIN Sports 2#-#1f#-#بين سبورت#-#http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/79993#@--@#http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/79984#-##2##-#0#-#0#-##-##-#1
+1g#-#beIN Sports 3#-#1g#-#بين سبورت 3#-#http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/79978#@--@#http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/79985#@--@#http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/80008#-##2##-#0#-#0#-##-##-#1
+1h#-#beIN Sports 4#-#1h#-#بين سبورت 4#-#http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/79979#-##2##-#0#-#0#-##-##-#1
+1i#-#beIN Sports 5#-#1i#-#بين سبورت 5#-#http://ferrarico.referrari.com/live/60136_.m3u8#-##2##-#0#-#0#-##-##-#1
+1j#-#beIN Sports 6#-#1j#-#بين سبورت 6#-#http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/79981#-##2##-#0#-#0#-##-##-#1
+1k#-#beIN Sports 7#-#1k#-#بين سبورت 7#-#http://135.181.134.183:50750/ahmet.berberler467/Kgkxlyxtchdnvx46/79982#-##2##-#0#-#0#-##-##-#1
+1l#-#beIN Sports 8#-#1l#-#بين سبورت 8#-#http://sarhantv.xyz:25461/omohak/onemonth/19#@--@#http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/14246.ts#@--@#http://rv.therevenge.co:80/0555141902/3893970296/78593#@--@#http://rv.therevenge.co:80/0555141902/3893970296/78573#-##2##-#1#-#0#-##-##-#1
+1m#-#beIN Sports 9#-#1m#-#بين سبورت 9#-#http://sarhantv.xyz:25461/omohak/onemonth/20#@--@#http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/14247.ts#@--@#http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/3114#@--@#http://rv.therevenge.co:80/0555141902/3893970296/78572#-##2##-#1#-#0#-##-##-#1
+1n#-#beIN Sports 10#-#1n#-#بين سبورت 10#-#http://194.32.79.172/bein10/tracks-v1a1/mono.m3u8#@--@#http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/14248.ts#@--@#http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/3113#@--@#http://rv.therevenge.co:80/0555141902/3893970296/78571#-##2##-#1#-#0#-##-##-#1
+1o#-#beIN Sports 11#-#1o#-#بين سبورت 11#-#http://185.246.210.53:2200/EX/bein11hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv#@--@#http://links.iptvlogin.com:80/live/xtremretro.ddns.net/YAPzvef0gF/37893.ts#@--@#http://rv.therevenge.co:80/0555141902/3893970296/78607#@--@#http://rv.therevenge.co:80/0555141902/3893970296/78570#-##2##-#1#-#0#-##-##-#1
+1p#-#beIN Sports 12#-#1p#-#بين سبورت 12#-#http://ottplanet.live:7788/x2N5mK3EGM/pCZPFTYDSQ/37646#@--@#http://rv.therevenge.co:80/0555141902/3893970296/78606#@--@#http://rv.therevenge.co:80/0555141902/3893970296/78569#-##2##-#1#-#0#-##-##-#1
+1q#-#beIN Sports 13#-#1q#-#بين سبورت 13#-#http://ottplanet.live:7788/x2N5mK3EGM/pCZPFTYDSQ/37647#@--@#http://rv.therevenge.co:80/0555141902/3893970296/78605#@--@#http://rv.therevenge.co:80/0555141902/3893970296/78568#-##2##-#1#-#0#-##-##-#1
+1r#-#beIN Sports 14#-#1r#-#بين سبورت 14#-#http://rv.therevenge.co:80/0555141902/3893970296/78604#@--@#http://rv.therevenge.co:80/0555141902/3893970296/78567#-##2##-#1#-#0#-##-##-#1
+1s#-#beIN Sports 15#-#1s#-#بين سبورت 15#-#http://ottplanet.live:7788/x2N5mK3EGM/pCZPFTYDSQ/37649#@--@#http://rv.therevenge.co:80/0555141902/3893970296/78603#@--@#http://rv.therevenge.co:80/0555141902/3893970296/78566#-##2##-#1#-#0#-##-##-#1
+1t#-#beIN Sports 16#-#1t#-#بين سبورت 16#-#http://ottplanet.live:7788/x2N5mK3EGM/pCZPFTYDSQ/37650#@--@#http://rv.therevenge.co:80/0555141902/3893970296/78602#@--@#http://rv.therevenge.co:80/0555141902/3893970296/78565#-##2##-#1#-#0#-##-##-#1
+1u#-#Nat Geo AD#-#1u#-#ناشونال جيوغرافيك ابو ظبي#-#http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8#-##7##-#0#-#0#-##-##-#1
+1x#-#OSN ياهلا#-#1x#-#او اس ان#-#http://streamer1.furrera.ps:80/OSNYaHala/tracks-v1a1/mono.m3u8?token=test#-##3##-#0#-#0#-##-##-#1
+1w#-#OSN ياهلا الأولى#-#1w#-#او اس ان#-#http://streamer1.furrera.ps:80/OSNYahalaOula/tracks-v1a1/mono.m3u8?token=test#-##3##-#0#-#0#-##-##-#1
+1v#-#OSN ياهلا سينما#-#1v#-#او اس ان#-#http://streamer1.furrera.ps:80/OSNYHCinema/tracks-v1a1/mono.m3u8?token=test#-##4##-#0#-#0#-##-##-#1
+1y#-#OSN Movies#-#1y#-#او اس ان افلام#-#http://streamer1.furrera.ps:80/OSNMovies/tracks-v1a1/mono.m3u8?token=test#-##4##-#0#-#0#-##-##-#1
+1z#-#رؤيا#-#1z#-##-#https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8#-##3##-#0#-#0#-##-##-#1
+20#-#عمان#-#20#-##-#https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8#-##3##-#0#-#0#-##-##-#1
+21#-#الرافدين#-#21#-##-#http://cdg3.edge.tmed.pw/arrafidaintv/live_640p/chunks.m3u8#-##3#6##-#0#-#0#-##-##-#1
+22#-#الشرقية#-#22#-#عراق#-#http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist.m3u8#-##3#6##-#0#-#0#-##-##-#1
+23#-#الحرة#-#23#-##-#https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8#-##6##-#0#-#0#-##-##-#1
+24#-#المعارف#-#24#-#عراق#-#http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8#-##8##-#0#-#0#-##-##-#1
+25#-#دجلة#-#25#-#عراق#-#https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8#-##5##-#0#-#0#-##-##-#1
+26#-#2M Monde#-#26#-#مغرب#-#https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1=4-mp4aqad=1.m3u8#-##3##-#0#-#0#-##-##-#1
+27#-#المغربية#-#27#-##-#http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8#-##3#6##-#0#-#0#-##-##-#1
+28#-#السادسة#-#28#-#المغرب#-#http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8#-##0#3##-#0#-#0#-##-##-#1
+29#-#Sahel#-#29#-#تونس#-#https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8#-##0#3##-#0#-#0#-##-##-#1
+2a#-#النهار#-#2a#-#الجزائر#-#http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8#-##3#6##-#0#-#0#-##-##-#1
+2b#-#الشروق#-#2b#-#تونس#-#http://217.182.250.232:8081/echo/EchoroukTV/chunks.m3u8#-##0#3##-#0#-#0#-##-##-#1
+2c#-#ليبيا 218#-#2c#-##-#https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8#-##0#3##-#0#-#0#-##-##-#1
+2d#-#ليبيا#-#2d#-##-#https://master.starmena-cloud.com/hls/libyas.m3u8#-##0#3##-#0#-#0#-##-##-#1
+2e#-#الوسط WTV#-#2e#-##-#https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_480p/chunks.m3u8#-##0#3##-#0#-#0#-##-##-#1
+2f#-#السودان#-#2f#-##-#http://217.182.137.206/sudantv.m3u8#-##0##-#0#-#0#-##-##-#1
+2g#-#قطر 1#-#2g#-##-#https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8#-##0##-#0#-#0#-##-##-#1
+2h#-#قطر 2#-#2h#-##-#https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8#-##0##-#0#-#0#-##-##-#1
+2i#-#الريان#-#2i#-##-#https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan/chunks.m3u8#-##0##-#0#-#0#-##-##-#1
+2j#-#الريان 2#-#2j#-##-#https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeempublich/alrayyanqadeem/chunks.m3u8#-##0##-#0#-#0#-##-##-#1
+2k#-#الكويت 1#-#2k#-##-#https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8#-##0##-#0#-#0#-##-##-#1
+2l#-#الكويت 2#-#2l#-##-#https://hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8#-##0##-#0#-#0#-##-##-#1
+2m#-#فنون#-#2m#-##-#https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8#-##0##-#0#-#0#-##-##-#1
+2n#-#البحرين#-#2n#-##-#http://185.105.4.106:1935/live/Bahrain#@--@#TV/chunklist.m3u8#-##0##-#0#-#0#-##-##-#1
+2o#-#عمان#-#2o#-##-#http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8#-##0##-#0#-#0#-##-##-#1
+2p#-#السعودية#-#2p#-##-#https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8#-##0##-#0#-#0#-##-##-#1
+2q#-#إقرأ#-#2q#-##-#https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8#-##8##-#0#-#0#-##-##-#1
+2r#-#دبي#-#2r#-##-#https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8#-##0##-#0#-#0#-##-##-#1
+2s#-#Dubai One#-#2s#-##-#https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8#-##0#3##-#0#-#0#-##-##-#1
+2t#-#نور دبي#-#2t#-##-#http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8?#-##8##-#0#-#0#-##-##-#1
+2u#-#سما دبي#-#2u#-##-#https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8#-##0##-#0#-#0#-##-##-#1
+2v#-#دبي زمان#-#2v#-##-#http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8#-##0##-#0#-#0#-##-##-#1
+2w#-#ابو ظبي دراما#-#2w#-##-#https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist.m3u8#-##3##-#0#-#0#-##-##-#1
+2x#-#ابو ظبي الامارات#-#2x#-##-#https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8#-##0##-#0#-#0#-##-##-#1
+2y#-#لنا +#-#2y#-##-#https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8#-##-#0#-#0#-##-##-#1
+2z#-#سما سوريا#-#2z#-##-#http://stream.sama-tv.net:8080/hls/samatv.m3u8#-##-#0#-#0#-##-##-#1
+30#-#سوريا دراما#-#30#-##-#http://82.137.248.16:1935/Drama/stream19042021/chunklist_w1020462113.m3u8#-##3##-#0#-#0#-##-##-#1
+31#-#نور الشام#-#31#-##-#http://82.137.248.16:1935/Nour/stream19042021/chunklist_w1594837314.m3u8#-##8##-#0#-#0#-##-##-#1
+32#-#Spacetoon#-#32#-#سبيستون#-#https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8#-##9##-#0#-#0#-##-##-#1
+33#-#BEIN Cartoon#-#33#-#كرتون#-#https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8#-##9##-#0#-#0#-##-##-#1
+34#-#Gulli Bil#-#34#-##-#https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index.m3u8#-##9##-#0#-#0#-##-##-#1
+35#-#ماجد#-#35#-##-#https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8#-##9##-#0#-#0#-##-##-#1
+36#-#Baby First#-#36#-#كرتون#-#https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/a_9JcVFPZXe2ek2da8HBadx9fVNmst7JUSZyvMmA_lm7lBrT2T0DatcJOHieLRd4CC83u97YCJQpMxflXk19zQ/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-private/st_master_dynamic_highlatency.m3u8?type=live#-##9##-#0#-#0#-#yacinetv11#-##-#1
