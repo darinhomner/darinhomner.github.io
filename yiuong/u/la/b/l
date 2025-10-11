@@ -1,3 +1,4 @@
+bnv.1b#5#3
 bev.1b#5#15
 bld.1b#6#11
 adg.27b#2#3
@@ -48,11 +49,9 @@ bo2.1b#7#2
 bo4.1b#0#0
 bo2.1b#7#2
 bo0.1b#0#0
-bnv.1b#5#2
 bnz.1b#0#0
 bny.1b#0#0
 bnx.2b#5#-1
-bnv.1b#5#2
 bnu.1b#0#0
 bnt.1b#0#0
 bns.1b#0#0
